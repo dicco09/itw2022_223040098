@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: arial;
+  vertical-align: baseline;
+}
+
+
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  font: 16/28px arial, sans-serif;
+  background-color: white;
+  color: #333;
+}
+
+.container {
+  width: 1348px;
+  margin: auto;
+  background-color: white;
+}
+
+.header {
+  padding: 0px;
+  padding-bottom: 10px;
+  background-color: lightseagreen;
+}
+
+.header .judul {
+  font-size: 40px;
+  font-weight: bold;
+
+  padding-bottom: 50px;
+  padding-top: 20px;
+  text-align: center;
+  color: gold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+
+.header ul li {
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-size: medium;
+}
+
+.header a {
+  text-decoration: none;
+  color: gold;
+  padding: 10px;
+  font-family: system-ui, sans-serif;
+  font-weight: bold;
+}
+
+.header a:hover {
+  background-color: lightseagreen;
+  color: white;
+}
+
+.hero {
+  height: 300px;
+  width: 600px;
+  background-image: url(img/conten.1.jpg);
+}
+
+.content {
+  padding: 12px;
+}
+
+.content h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.content .penulis {
+  font-size: 11px;
+  margin-top: 5px;
+}
+
+.penulis  a {
+  color: blue;
+  text-decoration: none;
+}
+
+.content p {
+  margin-bottom: 20px;
+  font-size: 14px;
+  padding-bottom: 20px;
+}
+
+.footer {
+  background-color: #333;
+  width: 100%;
+}
+
+.footer .copyright {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding-top: 19px;
+}
+
+.header p {
+    font-size:small;
+    
+}
+
+ul {
+  text-align: right;
+}
+
+.pheader {
+  padding-top: 6px;
+}
+
+.ulli {
+  text-align: right;
+}
+
+.conten2 {
+  padding-top: 25px;
+}
+
+.conten3 {
+  padding-top: 25px;
+}
+
+.conten4 {
+  padding-top: 25px;
+}
